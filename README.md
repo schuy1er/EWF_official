@@ -3,7 +3,7 @@ An official code for "Endpoints Weight Fusion for Class Incremental Semantic Seg
 
 This repository contains the official implementation of the following paper:
 > **Endpoints Weight Fusion for Class Incremental Semantic Segmentation**<br>
-> Jia-wen Xiao, Chang-bin Zhang, Jiekang Feng, Xialei Liu, Joost van de Weijer, Ming-Ming Cheng<sup>*</sup><br>
+> Jia-wen Xiao, Chang-bin Zhang, Jiekang Feng, Xialei Liu<sup>*</sup>, Joost van de Weijer, Ming-Ming Cheng<br>
 > IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2023<br>
 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_Endpoints_Weight_Fusion_for_Class_Incremental_Semantic_Segmentation_CVPR_2023_paper.pdf)]
